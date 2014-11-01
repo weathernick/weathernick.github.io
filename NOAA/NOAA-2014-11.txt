@@ -1,0 +1,46 @@
+                   MONTHLY CLIMATOLOGICAL SUMMARY for Nov 2014
+
+
+NAME: Ocotillo Desert Luxury                  
+ELEV: 207 feet    LAT: 32-38.60 N    LONG: 114-31.38 W
+
+
+                   TEMPERATURE (F), RAIN (in), WIND SPEED (mph)
+
+                                         HEAT   COOL         AVG
+      MEAN                               DEG    DEG          WIND                   DOM
+DAY   TEMP   HIGH   TIME    LOW   TIME   DAYS   DAYS   RAIN  SPEED   HIGH   TIME    DIR
+---------------------------------------------------------------------------------------
+ 01   72.5   72.5  00:00   72.5  00:00    0.0   13.5   0.00    7.5   11.8  00:00    146
+ 02
+ 03
+ 04
+ 05
+ 06
+ 07
+ 08
+ 09
+ 10
+ 11
+ 12
+ 13
+ 14
+ 15
+ 16
+ 17
+ 18
+ 19
+ 20
+ 21
+ 22
+ 23
+ 24
+ 25
+ 26
+ 27
+ 28
+ 29
+ 30
+---------------------------------------------------------------------------------------
+      72.5   72.5     01   72.5     01    0.0   13.5   0.00    7.5   11.8     01    146
+    
